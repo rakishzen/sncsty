@@ -1,6 +1,5 @@
 [book]
 authors = ["rakishzen"]
 language = 'en'
-multilingual = false
 src = "src"
 title = "SNCSTY"
