@@ -1,5 +1,20 @@
 [book]
-authors = ["rakishzen"]
-language = 'en'
+title = "She's Not Crazy, She's Testing You"
+authors = []
+description = "The hidden pattern behind every fight, every cold shoulder, and every time you didn't see it coming."
+language = "en"
 src = "src"
-title = "SNCSTY"
+
+[output.html]
+git-repository-url = "https://github.com/rakishzen/sncsty"
+git-repository-icon = "fa-github"
+default-theme = "light"
+preferred-dark-theme = "navy"
+no-section-label = false
+
+[output.html.fold]
+enable = true
+level = 1
+
+[output.html.playground]
+runnable = false
