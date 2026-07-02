@@ -7,7 +7,6 @@ src = "src"
 
 [output.html]
 git-repository-url = "https://github.com/rakishzen/sncsty"
-git-repository-icon = "fa-github"
 default-theme = "light"
 preferred-dark-theme = "navy"
 no-section-label = false
